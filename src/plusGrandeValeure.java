@@ -50,10 +50,3 @@ public class plusGrandeValeure {
 
 }
 
-//creation de l'instace de type Random
-
-// les valeurs issus de la fontionnalité random seront envoyer dans chaque cellule du tableau
-
-// recherche de la cellule ayant la plus grande valeure et son index en comparant chaque cellule du tableau
-
-// affichage du resultat
