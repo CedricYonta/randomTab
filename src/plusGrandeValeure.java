@@ -6,7 +6,7 @@
   Version    : 0.0.1
 */
 
-import java.util.Random;
+import java.util.Random;// importation de l'outil Random
 
 public class plusGrandeValeure {
   public static void main(String[] args) throws Exception {
